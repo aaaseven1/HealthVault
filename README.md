@@ -1,7 +1,5 @@
 ## HealthVault: Patient - Centered Healthcare on Blockchain
-We're building for a future where your health data belongs to you
 
-Developed for the Legal Tech Hackathon 2025.
 
 ## Overview
 HealthVault is a blockchain-based platform built on the Internet Computer Protocol (ICP) to solve healthcare data fragmentation. The platform gives patients full control of their medical records, enabling secure, encrypted, and permission-based data sharing with healthcare providers across institutions.
